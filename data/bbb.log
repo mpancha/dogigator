@@ -1,0 +1,491 @@
+==========+APPLICATION ON================
+
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          321040 kB
+Buffers:           11544 kB
+Cached:            94860 kB
+SwapCached:            0 kB
+Active:            83412 kB
+Inactive:          83464 kB
+Active(anon):      60608 kB
+Inactive(anon):     1200 kB
+Active(file):      22804 kB
+Inactive(file):    82264 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          321040 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                68 kB
+Writeback:             0 kB
+AnonPages:         60480 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12764 kB
+SReclaimable:       6520 kB
+SUnreclaim:         6244 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          321040 kB
+Buffers:           11544 kB
+Cached:            94860 kB
+SwapCached:            0 kB
+Active:            83412 kB
+Inactive:          83464 kB
+Active(anon):      60608 kB
+Inactive(anon):     1200 kB
+Active(file):      22804 kB
+Inactive(file):    82264 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          321040 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                68 kB
+Writeback:             0 kB
+AnonPages:         60480 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12764 kB
+SReclaimable:       6520 kB
+SUnreclaim:         6244 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          321040 kB
+Buffers:           11544 kB
+Cached:            94860 kB
+SwapCached:            0 kB
+Active:            83412 kB
+Inactive:          83464 kB
+Active(anon):      60608 kB
+Inactive(anon):     1200 kB
+Active(file):      22804 kB
+Inactive(file):    82264 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          321040 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                68 kB
+Writeback:             0 kB
+AnonPages:         60480 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12764 kB
+SReclaimable:       6520 kB
+SUnreclaim:         6244 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          321048 kB
+Buffers:           11552 kB
+Cached:            94860 kB
+SwapCached:            0 kB
+Active:            83412 kB
+Inactive:          83472 kB
+Active(anon):      60608 kB
+Inactive(anon):     1200 kB
+Active(file):      22804 kB
+Inactive(file):    82272 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          321048 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                92 kB
+Writeback:             0 kB
+AnonPages:         60480 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12744 kB
+SReclaimable:       6512 kB
+SUnreclaim:         6232 kB
+KernelStack:        1448 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/cpuinfo 
+processor	: 0
+model name	: ARMv7 Processor rev 2 (v7l)
+BogoMIPS	: 297.40
+Features	: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x3
+CPU part	: 0xc08
+CPU revision	: 2
+
+Hardware	: Generic AM33XX (Flattened Device Tree)
+Revision	: 0000
+Serial		: 0000000000000000
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/cpuinfo 
+processor	: 0
+model name	: ARMv7 Processor rev 2 (v7l)
+BogoMIPS	: 297.40
+Features	: swp half thumb fastmult vfp edsp thumbee neon vfpv3 tls 
+CPU implementer	: 0x41
+CPU architecture: 7
+CPU variant	: 0x3
+CPU part	: 0xc08
+CPU revision	: 2
+
+Hardware	: Generic AM33XX (Flattened Device Tree)
+Revision	: 0000
+Serial		: 0000000000000000
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# vmstat 
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0      0 321040  11568  94856    0    0   159    28   89  143  4  2 92  2
+root@beaglebone:~# vmstat 1
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0      0 321040  11568  94864    0    0   158    28   89  143  4  2 92  2
+ 1  0      0 321040  11568  94864    0    0     0     0   14   16  0  1 99  0
+ 0  0      0 321056  11568  94864    0    0     0     0   11   17  0  0 100  0
+ 0  0      0 321056  11568  94864    0    0     0     0   13   20  0  0 100  0
+ 0  0      0 321056  11576  94856    0    0     0    32   30   41  0  1 97  2
+^C
+root@beaglebone:~# ^C
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# ============+NAVIGATION ON==========
+-sh: ============+NAVIGATION: command not found
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# vmstat received [right]
+right
+1
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0      0 320916  11624  94864    0    0   145    26   83  133  4  2 93  2
+ 0  0      0 320916  11624  94864    0    0     0     0   25   36  0  1 99  0
+ 1  0      0 320916  11624  94864    0    0     0     0   10   14  0  0 100  0
+ 0  0      0 320908  11624  94864    0    0     0     0   15   24  0  1 99  0
+^C
+root@beaglebone:~# ^C
+root@beaglebone:~# vmstat 1
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0      0 320932  11632  94864    0    0   142    26   82  131  4  2 93  2
+ 0  0      0 320932  11632  94864    0    0     0     0   11   12  0  0 100  0
+ 0  0      0 320932  11632  94864    0    0     0     0   12   18  0  1 99  0
+ 0  0      0 320932  11632  94864    0    0     0    72  129  100  0  1 99  0
+ 0  1      0 320932  11636  94864    0    0     0    36   20   24  0  0 99  1
+ 0  0      0 320932  11640  94864    0    0     0     4   23   29  0  0 100  0
+ 0  0      0 320932  11640  94864    0    0     0     0   19   30  1  1 98  0
+ 0  0      0 320932  11640  94864    0    0     0     0   11   18  0  0 100  0
+ 0  0      0 320932  11640  94864    0    0     0    36   74   77  0  1 99  0
+ 0  0      0 320932  11640  94864    0    0     0     0   14   18  1  0 99  0
+ 1  0      0 320932  11640  94864    0    0     0     0   11   16  0  0 100  0
+ 0  0      0 320932  11648  94860    0    0     0    24   27   40  0  1 97  2
+ 1  0      0 320932  11648  94860    0    0     0     0   15   18  0  0 100  0
+ 0  0      0 320932  11648  94864    0    0     0     0   13   21  0  0 100  0
+ 1  0      0 320932  11648  94864    0    0     0     0   12   16  0  0 100  0
+ 0  0      0 320932  11648  94864    0    0     0     0   13   23  1  0 99  0
+ 1  0      0 320932  11648  94864    0    0     0     0   12   16  0  0 100  0
+ 0  0      0 320932  11648  94864    0    0     0     0   11   17  0  1 99  0
+ 0  0      0 320932  11648  94864    0    0     0     0   19   32  0  0 100  0
+procs -----------memory---------- ---swap-- -----io---- -system-- ----cpu----
+ r  b   swpd   free   buff  cache   si   so    bi    bo   in   cs us sy id wa
+ 0  0      0 320932  11648  94864    0    0     0     0   27   36  0  2 98  0
+ 0  0      0 320932  11648  94864    0    0     0     0   11   14  0  0 100  0
+ 0  0      0 320932  11648  94864    0    0     0     0   12   21  0  0 100  0
+ 0  0      0 320932  11648  94864    0    0     0     0    8   12  1  0 99  0
+ 1  0      0 320932  11648  94864    0    0     0     0   17   25  0  0 100  0
+ 0  0      0 320932  11656  94860    0    0     0    16   27   30  0  0 100  0
+ 0  0      0 320932  11656  94860    0    0     0     0   15   20  0  1 99  0
+ 0  0      0 320932  11656  94864    0    0     0     0   10   14  0  0 100  0
+ 1  0      0 320932  11656  94864    0    0     0     0   14   24  0  0 100  0
+ 0  0      0 320932  11656  94864    0    0     0     0   28   49  1  2 97  0
+ 0  0      0 320932  11656  94864    0    0     0     0   16   24  0  0 100  0
+ 1  0      0 320932  11656  94864    0    0     0     0    9   14  0  0 100  0
+ 1  0      0 320932  11656  94864    0    0     0     0   16   25  0  0 100  0
+ 1  0      0 320932  11656  94864    0    0     0     0   10   16  0  1 99  0
+ 0  0      0 320932  11664  94860    0    0     0    20   32   45  1  0 98  1
+received [right]
+right
+ 0  0      0 320932  11664  94860    0    0     0     0   17   33  0  0 100  0
+ 1  0      0 320932  11664  94864    0    0     0     0   20   32  0  1 99  0
+
+ 0  0      0 320784  11664  94864    0    0     0     0   22   37  0  1 99  0
+
+
+ 0  0      0 320784  11664  94864    0    0     0     0   20   28  0  0 100  0
+^C
+root@beaglebone:~# ^C
+root@beaglebone:~# ^C
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          320792 kB
+Buffers:           11672 kB
+Cached:            94864 kB
+SwapCached:            0 kB
+Active:            83440 kB
+Inactive:          83572 kB
+Active(anon):      60612 kB
+Inactive(anon):     1200 kB
+Active(file):      22828 kB
+Inactive(file):    82372 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          320792 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:         60484 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12776 kB
+SReclaimable:       6532 kB
+SUnreclaim:         6244 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          320792 kB
+Buffers:           11672 kB
+Cached:            94864 kB
+SwapCached:            0 kB
+Active:            83440 kB
+Inactive:          83572 kB
+Active(anon):      60612 kB
+Inactive(anon):     1200 kB
+Active(file):      22828 kB
+Inactive(file):    82372 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          320792 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:         60484 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12776 kB
+SReclaimable:       6532 kB
+SUnreclaim:         6244 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          320792 kB
+Buffers:           11672 kB
+Cached:            94864 kB
+SwapCached:            0 kB
+Active:            83440 kB
+Inactive:          83572 kB
+Active(anon):      60612 kB
+Inactive(anon):     1200 kB
+Active(file):      22828 kB
+Inactive(file):    82372 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          320792 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:         60484 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12772 kB
+SReclaimable:       6532 kB
+SUnreclaim:         6240 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# cat /proc/meminfo 
+MemTotal:         510820 kB
+MemFree:          320792 kB
+Buffers:           11672 kB
+Cached:            94864 kB
+SwapCached:            0 kB
+Active:            83440 kB
+Inactive:          83572 kB
+Active(anon):      60612 kB
+Inactive(anon):     1200 kB
+Active(file):      22828 kB
+Inactive(file):    82372 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+HighTotal:             0 kB
+HighFree:              0 kB
+LowTotal:         510820 kB
+LowFree:          320792 kB
+SwapTotal:             0 kB
+SwapFree:              0 kB
+Dirty:                 8 kB
+Writeback:             0 kB
+AnonPages:         60484 kB
+Mapped:            36260 kB
+Shmem:              1340 kB
+Slab:              12772 kB
+SReclaimable:       6532 kB
+SUnreclaim:         6240 kB
+KernelStack:        1456 kB
+PageTables:         2180 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:      255408 kB
+Committed_AS:     344080 kB
+VmallocTotal:     499712 kB
+VmallocUsed:       30756 kB
+VmallocChunk:     389116 kB
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# hciconfig 
+hci0:	Type: BR/EDR  Bus: USB
+	BD Address: 00:1E:0A:00:00:39  ACL MTU: 1017:8  SCO MTU: 64:0
+	UP RUNNING PSCAN ISCAN 
+	RX bytes:3420 acl:68 sco:0 events:111 errors:0
+	TX bytes:2159 acl:73 sco:0 commands:40 errors:0
+
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# hciconfig received [right]
+right
+
+hci0:	Type: BR/EDR  Bus: USB
+	BD Address: 00:1E:0A:00:00:39  ACL MTU: 1017:8  SCO MTU: 64:0
+	UP RUNNING PSCAN ISCAN 
+	RX bytes:3450 acl:69 sco:0 events:113 errors:0
+	TX bytes:2159 acl:73 sco:0 commands:40 errors:0
+
+root@beaglebone:~# hciconfig 
+hci0:	Type: BR/EDR  Bus: USB
+	BD Address: 00:1E:0A:00:00:39  ACL MTU: 1017:8  SCO MTU: 64:0
+	UP RUNNING PSCAN ISCAN 
+	RX bytes:3463 acl:69 sco:0 events:115 errors:0
+	TX bytes:2159 acl:73 sco:0 commands:40 errors:0
+
+root@beaglebone:~# 
+root@beaglebone:~# 
+root@beaglebone:~# hciconfig 
+hci0:	Type: BR/EDR  Bus: USB
+	BD Address: 00:1E:0A:00:00:39  ACL MTU: 1017:8  SCO MTU: 64:0
+	UP RUNNING PSCAN ISCAN 
+	RX bytes:3463 acl:69 sco:0 events:115 errors:0
+	TX bytes:2159 acl:73 sco:0 commands:40 errors:0
+
+
