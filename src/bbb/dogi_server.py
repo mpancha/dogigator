@@ -1,17 +1,22 @@
 #!/usr/bin/python
-# file: rfcomm-server.py
-# auth: Albert Huang <albert@csail.mit.edu>
-# desc: simple demonstration of a server application that uses RFCOMM sockets
-#
-# $Id: rfcomm-server.py 518 2007-08-10 07:20:07Z albert $
-
+import time
 from bluetooth import *
 from indications import *
+import sys
 
-#left='/sys/class/leds/beaglebone:green:usr0/brightness'
-#right='/sys/class/leds/beaglebone:green:usr1/brightness'
-#front='/sys/class/leds/beaglebone:green:usr2/brightness'
-#back='/sys/class/leds/beaglebone:green:usr3/brightness'
+left='/sys/class/leds/beaglebone:green:usr0/brightness'
+back='/sys/class/leds/beaglebone:green:usr1/brightness'
+front='/sys/class/leds/beaglebone:green:usr2/brightness'
+right='/sys/class/leds/beaglebone:green:usr3/brightness'
+#time.sleep(10)
+def turn(direction):
+	f=open(direction,'w')
+	f.write("255")
+	f.close()
+	time.sleep(2)
+	f=open(direction,'w')
+	f.write("0")
+	f.close()
 
 server_sock=BluetoothSocket( RFCOMM )
 server_sock.bind(("",PORT_ANY))
