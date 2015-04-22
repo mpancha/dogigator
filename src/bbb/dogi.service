@@ -1,0 +1,12 @@
+[Unit]
+Description=Dogi
+
+[Service]
+WorkingDirectory=/home/root/
+ExecStart=/usr/bin/python dogi_server.py
+SyslogIdentifier=dogi
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
